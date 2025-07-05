@@ -1,4 +1,12 @@
 {
   "name": "Best Repository",
-  "description": ""
+  "description": "The Best Utilities on the PLANET! You will NEVER find any better utilities than ones in THIS REPOSITORY!",
+
+  "utilities": [
+    {
+      "name": "Клей",
+      "data_type": "qmllink",
+      "data": "https://raw.githubusercontent.com/kozadereza1/utilities-repo/refs/heads/main/glue.qml"
+    }
+  ]
 }
